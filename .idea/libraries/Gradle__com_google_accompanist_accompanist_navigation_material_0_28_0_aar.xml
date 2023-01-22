@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-navigation-material:0.28.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/63b0ade6c9ac8c833f2efcc507920034/transformed/accompanist-navigation-material-0.28.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63b0ade6c9ac8c833f2efcc507920034/transformed/accompanist-navigation-material-0.28.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-navigation-material/0.28.0/7db29de9ef6daaac67860b251595108c8ab1fd1a/accompanist-navigation-material-0.28.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-navigation-material/0.28.0/b9311c3f513afcf721eb6feb90730edf3539a2c6/accompanist-navigation-material-0.28.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

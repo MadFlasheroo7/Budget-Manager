@@ -1,0 +1,268 @@
+
+------------------------------------------------------------
+: Project Dependency Updates (report to plain text file)
+------------------------------------------------------------
+
+The following dependencies are using the latest milestone version:
+ - androidx.activity:activity:1.5.0
+ - androidx.activity:activity-ktx:1.5.0
+ - androidx.annotation:annotation:1.3.0
+ - androidx.annotation:annotation-experimental:1.1.0
+ - androidx.appcompat:appcompat-resources:1.4.1
+ - androidx.arch.core:core-common:2.1.0
+ - androidx.arch.core:core-runtime:2.1.0
+ - androidx.autofill:autofill:1.0.0
+ - androidx.cardview:cardview:1.0.0
+ - androidx.collection:collection:1.2.0
+ - androidx.collection:collection-ktx:1.1.0
+ - androidx.compose.animation:animation:1.1.1
+ - androidx.compose.animation:animation-core:1.1.1
+ - androidx.compose.material:material-icons-core:1.1.1
+ - androidx.compose.material:material-ripple:1.1.1
+ - androidx.compose.runtime:runtime-saveable:1.2.0-rc03
+ - androidx.compose.ui:ui-geometry:1.2.0-rc03
+ - androidx.compose.ui:ui-graphics:1.2.0-rc03
+ - androidx.compose.ui:ui-text:1.2.0-rc03
+ - androidx.compose.ui:ui-tooling-data:1.1.1
+ - androidx.compose.ui:ui-unit:1.2.0-rc03
+ - androidx.compose.ui:ui-util:1.2.0-rc03
+ - androidx.concurrent:concurrent-futures:1.0.0
+ - androidx.constraintlayout:constraintlayout:2.0.1
+ - androidx.constraintlayout:constraintlayout-core:1.0.4
+ - androidx.constraintlayout:constraintlayout-solver:2.0.1
+ - androidx.coordinatorlayout:coordinatorlayout:1.1.0
+ - androidx.core:core:1.8.0
+ - androidx.core:core-ktx:1.8.0-alpha06
+ - androidx.core:core-splashscreen:1.0.0-beta02
+ - androidx.cursoradapter:cursoradapter:1.0.0
+ - androidx.customview:customview:1.1.0
+ - androidx.customview:customview-poolingcontainer:1.0.0-rc01
+ - androidx.datastore:datastore-core:1.0.0
+ - androidx.datastore:datastore-preferences-core:1.0.0
+ - androidx.drawerlayout:drawerlayout:1.1.1
+ - androidx.dynamicanimation:dynamicanimation:1.1.0-alpha03
+ - androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03
+ - androidx.emoji2:emoji2:1.0.0
+ - androidx.emoji2:emoji2-views-helper:1.0.0
+ - androidx.exifinterface:exifinterface:1.3.3
+ - androidx.fragment:fragment:1.3.6
+ - androidx.hilt:hilt-common:1.0.0-alpha03
+ - androidx.hilt:hilt-compiler:1.0.0
+ - androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03
+ - androidx.hilt:hilt-navigation:1.0.0
+ - androidx.interpolator:interpolator:1.0.0
+ - androidx.lifecycle:lifecycle-common:2.5.0
+ - androidx.lifecycle:lifecycle-common-java8:2.5.0
+ - androidx.lifecycle:lifecycle-livedata:2.4.1
+ - androidx.lifecycle:lifecycle-livedata-core:2.5.0
+ - androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1
+ - androidx.lifecycle:lifecycle-process:2.4.0
+ - androidx.lifecycle:lifecycle-runtime:2.5.0
+ - androidx.lifecycle:lifecycle-viewmodel:2.5.0
+ - androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0
+ - androidx.loader:loader:1.0.0
+ - androidx.navigation:navigation-common:2.5.0
+ - androidx.navigation:navigation-common-ktx:2.5.0
+ - androidx.navigation:navigation-runtime:2.5.0
+ - androidx.navigation:navigation-runtime-ktx:2.5.0
+ - androidx.profileinstaller:profileinstaller:1.2.0-rc01
+ - androidx.recyclerview:recyclerview:1.1.0
+ - androidx.resourceinspection:resourceinspection-annotation:1.0.0
+ - androidx.room:room-common:2.4.2
+ - androidx.savedstate:savedstate:1.2.0
+ - androidx.savedstate:savedstate-ktx:1.2.0
+ - androidx.sqlite:sqlite:2.2.0
+ - androidx.sqlite:sqlite-framework:2.2.0
+ - androidx.startup:startup-runtime:1.1.1
+ - androidx.tracing:tracing:1.0.0
+ - androidx.transition:transition:1.2.0
+ - androidx.vectordrawable:vectordrawable:1.1.0
+ - androidx.vectordrawable:vectordrawable-animated:1.1.0
+ - androidx.versionedparcelable:versionedparcelable:1.1.1
+ - androidx.viewpager:viewpager:1.0.0
+ - androidx.viewpager2:viewpager2:1.0.0
+ - com.github.ben-manes.versions:com.github.ben-manes.versions.gradle.plugin:0.44.0
+ - com.github.gundy:semver4j:0.16.4
+ - com.google.accompanist:accompanist-drawablepainter:0.23.1
+ - com.google.code.findbugs:jsr305:3.0.2
+ - com.google.code.gson:gson:2.9.0
+ - com.google.dagger:dagger:2.40.5
+ - com.google.dagger:dagger-lint-aar:2.40.5
+ - com.google.dagger:hilt-core:2.40.5
+ - com.google.errorprone:error_prone_annotations:2.3.4
+ - com.google.guava:failureaccess:1.0.1
+ - com.google.guava:guava:29.0-jre
+ - com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+ - com.google.j2objc:j2objc-annotations:1.3
+ - com.google.truth:truth:1.1.3
+ - com.squareup.moshi:moshi:1.8.0
+ - com.squareup.okio:okio:3.0.0
+ - com.squareup.okio:okio-jvm:3.0.0
+ - com.squareup.retrofit2:converter-gson:2.9.0
+ - com.squareup.retrofit2:converter-moshi:2.9.0
+ - com.squareup.retrofit2:converter-scalars:2.9.0
+ - com.squareup.retrofit2:retrofit:2.9.0
+ - de.undercouch:gradle-download-task:4.1.1
+ - io.coil-kt:coil:2.1.0
+ - io.coil-kt:coil-base:2.1.0
+ - io.coil-kt:coil-compose-base:2.1.0
+ - javax.inject:javax.inject:1
+ - junit:junit:4.13.2
+ - net.java.dev.jna:jna:5.6.0
+ - nl.littlerobots.version-catalog-update:nl.littlerobots.version-catalog-update.gradle.plugin:0.7.0
+ - org.checkerframework:checker-qual:2.11.1
+ - org.jetbrains:annotations:13.0
+ - org.jetbrains.intellij.deps:trove4j:1.0.20200330
+ - org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.6.10
+ - org.jetbrains.kotlin:kotlin-build-common:1.6.20
+ - org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20
+ - org.jetbrains.kotlin:kotlin-compiler-runner:1.6.20
+ - org.jetbrains.kotlin:kotlin-daemon-client:1.6.20
+ - org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20
+ - org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.6.20
+ - org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.6.20
+ - org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.6.20
+ - org.jetbrains.kotlin:kotlin-native-utils:1.6.20
+ - org.jetbrains.kotlin:kotlin-project-model:1.6.20
+ - org.jetbrains.kotlin:kotlin-reflect:1.6.20
+ - org.jetbrains.kotlin:kotlin-script-runtime:1.6.20
+ - org.jetbrains.kotlin:kotlin-scripting-common:1.6.20
+ - org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20
+ - org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20
+ - org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20
+ - org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21
+ - org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21
+ - org.jetbrains.kotlin:kotlin-tooling-metadata:1.6.20
+ - org.jetbrains.kotlin:kotlin-util-io:1.6.20
+ - org.jetbrains.kotlin:kotlin-util-klib:1.6.20
+ - org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1
+ - org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.6.1
+ - org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1
+
+The following dependencies have later milestone versions:
+ - androidx.activity:activity-compose [1.5.0 -> 1.7.0-alpha03]
+     https://developer.android.com/jetpack/androidx/releases/activity#1.5.0
+ - androidx.appcompat:appcompat [1.4.1 -> 1.7.0-alpha01]
+     https://developer.android.com/jetpack/androidx/releases/appcompat#1.4.1
+ - androidx.arch.core:core-testing [2.1.0 -> 2.2.0-alpha01]
+     https://developer.android.com/jetpack/androidx/releases/arch-core#2.2.0-alpha01
+ - androidx.compose.compiler:compiler [1.2.0-alpha02 -> 1.4.0]
+     https://developer.android.com/jetpack/androidx/releases/compose-compiler#1.4.0
+ - androidx.compose.foundation:foundation [1.2.0-rc03 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-foundation#1.4.0-alpha04
+ - androidx.compose.foundation:foundation-layout [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-foundation#1.4.0-alpha04
+ - androidx.compose.material:material [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-material#1.1.1
+ - androidx.compose.material:material-icons-extended [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-material#1.4.0-alpha04
+ - androidx.compose.runtime:runtime [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-runtime#1.2.0-rc03
+ - androidx.compose.runtime:runtime-livedata [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-runtime#1.1.1
+ - androidx.compose.ui:ui [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-ui#1.2.0-rc03
+ - androidx.compose.ui:ui-test-junit4 [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-ui#1.4.0-alpha04
+ - androidx.compose.ui:ui-test-manifest [1.2.0-rc03 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-ui#1.4.0-alpha04
+ - androidx.compose.ui:ui-tooling [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-ui#1.4.0-alpha04
+ - androidx.compose.ui:ui-tooling-preview [1.1.1 -> 1.4.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/compose-ui#1.4.0-alpha04
+ - androidx.constraintlayout:constraintlayout-compose [1.0.1 -> 1.1.0-alpha05]
+     https://developer.android.com/jetpack/androidx/releases/constraintlayout#1.1.0-alpha05
+ - androidx.core:core-ktx [1.7.0 -> 1.8.0-alpha06]
+     https://developer.android.com/jetpack/androidx/releases/core#1.10.0-alpha01
+ - androidx.datastore:datastore [1.0.0 -> 1.1.0-alpha01]
+     https://developer.android.com/jetpack/androidx/releases/datastore#1.0.0
+ - androidx.datastore:datastore-preferences [1.0.0 -> 1.1.0-alpha01]
+     https://developer.android.com/jetpack/androidx/releases/datastore#1.1.0-alpha01
+ - androidx.hilt:hilt-navigation-compose [1.0.0 -> 1.1.0-alpha01]
+     https://developer.android.com/jetpack/androidx/releases/hilt#1.0.0
+ - androidx.lifecycle:lifecycle-livedata-ktx [2.4.1 -> 2.6.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/lifecycle#2.4.1
+ - androidx.lifecycle:lifecycle-runtime-ktx [2.4.1 -> 2.6.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/lifecycle#2.6.0-alpha04
+ - androidx.lifecycle:lifecycle-viewmodel-compose [2.5.0 -> 2.6.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/lifecycle#2.5.0
+ - androidx.lifecycle:lifecycle-viewmodel-savedstate [2.5.0 -> 2.6.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/lifecycle#2.6.0-alpha04
+ - androidx.navigation:navigation-compose [2.5.0 -> 2.6.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/navigation#2.5.0
+ - androidx.room:room-compiler [2.4.2 -> 2.5.0]
+     https://developer.android.com/jetpack/androidx/releases/room#2.5.0
+ - androidx.room:room-ktx [2.4.2 -> 2.5.0]
+     https://developer.android.com/jetpack/androidx/releases/room#2.5.0
+ - androidx.room:room-runtime [2.4.2 -> 2.5.0]
+     https://developer.android.com/jetpack/androidx/releases/room#2.4.2
+ - androidx.test:core [1.4.0 -> 1.5.0]
+     https://developer.android.com/testing
+ - androidx.test:runner [1.4.0 -> 1.5.2]
+     https://developer.android.com/testing
+ - androidx.test.espresso:espresso-core [3.4.0 -> 3.5.1]
+     https://developer.android.com/testing
+ - androidx.test.ext:junit [1.1.3 -> 1.1.5]
+     https://developer.android.com/testing
+ - androidx.window:window [1.0.0 -> 1.1.0-alpha04]
+     https://developer.android.com/jetpack/androidx/releases/window#1.0.0
+ - com.android.application:com.android.application.gradle.plugin [7.2.1 -> 8.1.0-alpha01]
+     https://developer.android.com/studio/build
+ - com.android.library:com.android.library.gradle.plugin [7.2.1 -> 8.1.0-alpha01]
+     https://developer.android.com/studio/build
+ - com.google.accompanist:accompanist-insets [0.24.13-rc -> 0.29.0-alpha]
+     https://github.com/google/accompanist/
+ - com.google.accompanist:accompanist-systemuicontroller [0.24.13-rc -> 0.29.0-alpha]
+     https://github.com/google/accompanist/
+ - com.google.android.material:material [1.6.1 -> 1.9.0-alpha01]
+     https://github.com/material-components/material-components-android
+ - com.google.dagger:hilt-android [2.40.5 -> 2.44.2]
+     https://github.com/google/dagger
+ - com.google.dagger:hilt-android-compiler [2.37 -> 2.44.2]
+     https://github.com/google/dagger
+ - com.google.dagger.hilt.android:com.google.dagger.hilt.android.gradle.plugin [2.41 -> 2.44.2]
+     https://github.com/google/dagger
+ - com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin [1.6.10-1.0.2 -> 1.8.0-1.0.8]
+     https://goo.gle/ksp
+ - com.google.devtools.ksp:symbol-processing [1.6.10-1.0.2 -> 1.8.0-1.0.8]
+     https://goo.gle/ksp
+ - com.squareup.okhttp3:logging-interceptor [4.10.0 -> 5.0.0-alpha.11]
+     https://square.github.io/okhttp/
+ - com.squareup.okhttp3:okhttp [4.10.0 -> 5.0.0-alpha.11]
+     https://square.github.io/okhttp/
+ - com.squareup.okhttp3:okhttp-urlconnection [4.10.0 -> 5.0.0-alpha.11]
+     https://square.github.io/okhttp/
+ - io.coil-kt:coil-compose [2.1.0 -> 2.2.2]
+     https://github.com/coil-kt/coil
+ - io.github.raamcosta.compose-destinations:core [1.6.12-beta -> 1.8.32-beta]
+     https://github.com/raamcosta/compose-destinations
+ - io.github.raamcosta.compose-destinations:ksp [1.6.12-beta -> 1.8.32-beta]
+     https://github.com/raamcosta/compose-destinations
+ - org.apache.logging.log4j:log4j-core [2.17.0 -> 2.19.0]
+     https://logging.apache.org/log4j/2.x/
+ - org.jacoco:org.jacoco.ant [0.8.7 -> 0.8.8]
+     http://jacoco.org
+ - org.jetbrains.kotlin:kotlin-android-extensions [1.6.20 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin:kotlin-annotation-processing-gradle [1.6.10 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin:kotlin-gradle-plugin [1.6.20 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin:kotlin-parcelize-compiler [1.6.10 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin:kotlin-parcelize-runtime [1.6.10 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin:kotlin-stdlib [1.6.10 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin:kotlin-stdlib-jdk8 [1.6.21 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlin.android:org.jetbrains.kotlin.android.gradle.plugin [1.6.10 -> 1.8.0]
+     https://kotlinlang.org/
+ - org.jetbrains.kotlinx:kotlinx-coroutines-core [1.6.1 -> 1.6.4]
+     https://github.com/Kotlin/kotlinx.coroutines
+
+Failed to compare versions for the following dependencies because they were declared without version:
+ - androidx.room:room-testing
+
+Gradle release-candidate updates:
+ - Gradle: [7.3.3 -> 7.6 -> 8.0-rc-2]

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-adaptive:0.28.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c60b1b826084f10b21c531cde0ba7efb/transformed/accompanist-adaptive-0.28.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c60b1b826084f10b21c531cde0ba7efb/transformed/accompanist-adaptive-0.28.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-adaptive/0.28.0/41a59edc90b2eacf82fe379fac31f5234dba875e/accompanist-adaptive-0.28.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-adaptive/0.28.0/55cac1112e21028e288fab2870cd505293ba8fd9/accompanist-adaptive-0.28.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
